@@ -1,3 +1,8 @@
+(Grade A) Project
+
+![alt text](img/line.png)
+![alt text](img/gui.png)
+
 
 
 Window size: 		GUI window size:
